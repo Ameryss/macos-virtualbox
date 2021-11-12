@@ -33,7 +33,7 @@ resolution="1280x800"            # VM display resolution
 # Assigning the following parameters is not required when installing or using macOS.
 
 DmiSystemFamily="MacBook Pro"          # Model Name
-DmiSystemProduct="MacBookPro11,2"      # Model Identifier
+DmiSystemProduct="iMacPro1,1"      # Model Identifier
 DmiBIOSVersion="string:MBP7.89"        # Boot ROM Version
 DmiSystemSerial="NO_DEVICE_SN"         # Serial Number (system)
 DmiSystemUuid="CAFECAFE-CAFE-CAFE-CAFE-DECAFFDECAFF" # Hardware UUID
