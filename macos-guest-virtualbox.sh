@@ -15,7 +15,7 @@
 
 function set_variables() {
 # Customize the installation by setting these variables:
-vm_name="macOS2"                  # name of the VirtualBox virtual machine
+vm_name="macOS3"                  # name of the VirtualBox virtual machine
 macOS_release_name="HighSierra"    # install "HighSierra" "Mojave" or "Catalina"
 storage_size=80000               # VM disk image size in MB, minimum 22000
 storage_format="vdi"             # VM disk image file format, "vdi" or "vmdk"
